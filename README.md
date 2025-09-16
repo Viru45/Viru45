@@ -8,7 +8,7 @@ I'm **Virendra Kharate**, also known as Viru. Welcome to my GitHub profile!
 - 👀 I’m interested in exploring and mastering various programming languages and technologies. My primary interests include software development, data structures, and web development.
 - 🌱 I’m currently learning more about **Full-Stack Web Development**, **Machine Learning**, and **Data Science**. I'm also enhancing my skills in **JavaScript** frameworks and **Python** libraries.
 - 💞️ I’m looking to collaborate on **open-source projects**, **web applications**, and **data analysis projects**. If you have a cool project or idea, feel free to reach out!
-- 📫 How to reach me: You can contact me via **[Email](mailto:virendra.kharate@example.com)** or connect with me on **[LinkedIn](your-linkedin-profile-link)**.
+- 📫 How to reach me: You can contact me via **[Email](mailto:virendra.kharate@example.com)** or connect with me on **[LinkedIn](linkedin.com/in/virendra-kharate)**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once solved a complex coding problem during a hackathon and got a standing ovation from the team! 🎉
 
