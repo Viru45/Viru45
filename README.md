@@ -1,9 +1,3 @@
-Of course\! Your GitHub profile README looks great. I've corrected the LinkedIn link which was missing the `https://` protocol. Without it, the link wouldn't work correctly.
-
-Here is the corrected version.
-
------
-
 # Hi there\! 👋
 
 I'm **Virendra Kharate**, also known as Viru. Welcome to my GitHub profile\!
