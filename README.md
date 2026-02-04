@@ -1,28 +1,58 @@
-# Hi there\! 👋
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi 👋, I'm Virendra Kharate</h1>
 
-I'm **Virendra Kharate**, also known as Viru. Welcome to my GitHub profile\!
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
-## About Me
+<h3 align="center">🚀 Full-Stack Developer | IT Undergraduate | Tech Enthusiast</h3>
 
-  - 👋 **Hi, I’m Virendra**
-  - 👀 I’m interested in exploring and mastering various programming languages and technologies. My primary interests include software development, data structures, and web development.
-  - 🌱 I’m currently learning more about **Full-Stack Web Development**, **Machine Learning**, and **Data Science**. I'm also enhancing my skills in **JavaScript** frameworks and **Python** libraries.
-  - 💞️ I’m looking to collaborate on **open-source projects**, **web applications**, and **data analysis projects**. If you have a cool project or idea, feel free to reach out\!
-  - 📫 How to reach me: You can contact me via **[Email](mailto:virendra.kharate@example.com)** or connect with me on **[LinkedIn](https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/virendra-kharate)**.
-  - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: I once solved a complex coding problem during a hackathon and got a standing ovation from the team\! 🎉
+<p align="center">
+  <a href="https://github.com/Viru45">
+    <img src="https://img.shields.io/github/followers/Viru45?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/virendra-kharate">
+    <img src="https://img.shields.io/badge/LinkedIn-Virendra%20Kharate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:virendrakharate27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## Skills & Technologies
 
-  - **Languages:** C, C++, Java, Python, JavaScript, SQL, HTML
-  - **Skills:** Data Structures, Web Development, Database Management
+---
 
-## Projects
+## 👨‍💻 About Me
 
-Here are some of the projects I've worked on:
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+</p>
 
-Thank you for visiting my profile\! I hope you find my work interesting and look forward to collaborating with you.
+🎓 **B.Tech in Information Technology** @ AISSMS IOIT, Pune  
+💡 Full-Stack Developer fresher passionate about real-world applications  
+🌱 Currently learning **DSA, Backend Architecture & System Design**  
+📍 Pune, Maharashtra, India  
 
------
+---
 
-*Virendra Kharate*
+## 🛠️ Tech Stack
+
+### 🚀 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="130"/>
+</p>
+
+<p align="center">
+  ❤️ <i>“Code. Learn. Build. Repeat.”</i> ❤️
+</p>
